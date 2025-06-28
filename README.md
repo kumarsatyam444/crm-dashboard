@@ -171,6 +171,7 @@ This project is private and proprietary.
 
 **Kumar Satyam**
 - GitHub: [@kumarsatyam444](https://github.com/kumarsatyam444)
+- LinkedIn: (https://www.linkedin.com/in/kumar--satyam/)
 
 ## 🙏 Acknowledgments
 
